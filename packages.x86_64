@@ -165,17 +165,13 @@ xterm
 ###################
 #desktop-environment##
 ###################
-cinnamon
-nemo-fileroller
+gnome
+gnome-extra
+adwaita-icon-theme
+xcursor-themes
+gnome-tweaks
 evince
-gedit
 xfce4-terminal
-gnome-calculator
-gnome-screenshot
-eog
-gimp
-gnome-keyring
-xclip
 
 ###########
 #VGA Card##
@@ -294,6 +290,7 @@ hel-sync
 #helwan-Games##
 ###############
 hel-blocks
+#hel-mycar
 hel-space-fight
 hel-solitaire
 hel-cmd-runner
@@ -301,3 +298,7 @@ hel-maze
 hel-senet
 hel-mines
 hel-prism
+hel-2048
+hel-snake
+hel-pong
+hel-memory
