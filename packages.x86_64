@@ -166,13 +166,19 @@ xterm
 ###################
 #desktop-environment##
 ###################
-gnome
-gnome-extra
-adwaita-icon-theme
-xcursor-themes
-gnome-tweaks
+cinnamon
+nemo-fileroller
 evince
+gedit
 xfce4-terminal
+gnome-calculator
+#cheese
+gnome-screenshot
+eog
+fastfetch
+gimp
+gnome-keyring
+xclip
 
 ###########
 #VGA Card##
